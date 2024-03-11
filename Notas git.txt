@@ -1,10 +1,21 @@
-para cambiar de master a main toca 
+
+working area || Stangin area|| repository area 
+          git add     ->    git commit
+        git restore <-    git rest HEAD
+
+Para cambiar de master a main toca 
 //$ git branch -M main
- Para cuardar en zona de espera es 
+Para guardar en zona de espera es todos los cambios
  // git add .
- Para mirar el estado
+Guardar cambios en archivos
+ // git Nombre del arvivo
+Para mirar el estado
  // git status 
 Para guardar todos los cambios es 
 // git commit -m "mensaje descriptivo de que hicimos"
 Ver los log realizados 
 // git log 
+Mueve cambios de Stangin area a working area 
+// git restore --staged nombre del archivo 
+Borra cambios 
+// git restore "nombre del archivo"
