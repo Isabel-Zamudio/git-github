@@ -1,9 +1,10 @@
 para cambiar de master a main toca 
 //$ git branch -M main
  Para cuardar en zona de espera es 
- // git add.
+ // git add .
  Para mirar el estado
  // git status 
 Para guardar todos los cambios es 
 // git commit -m "mensaje descriptivo de que hicimos"
-
+Ver los log realizados 
+// git log 
