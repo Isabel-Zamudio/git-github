@@ -1,16 +1,16 @@
-
-working area || Stangin area|| repository area 
-          git add     ->    git commit
-        git restore <-    git rest HEAD
+                    
+        working area || Stangin area|| repository area 
+                git add     ->    git commit
+               git restore   <-   git reset HEAD
 
 Para cambiar de master a main toca 
 //$ git branch -M main
 Para guardar en zona de espera es todos los cambios
- // git add .
+// git add .
 Guardar cambios en archivos
- // git Nombre del arvivo
+// git Nombre del arvivo
 Para mirar el estado
- // git status 
+// git status 
 Para guardar todos los cambios es 
 // git commit -m "mensaje descriptivo de que hicimos"
 Ver los log realizados 
