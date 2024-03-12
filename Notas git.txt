@@ -29,8 +29,8 @@ Revisar si esta conectado a git
                     <- git pull 
                     <- git fech
 
+git push - Mezcla en la nube 
 git pull - Mezcla cabios
 git fech - No mezcla los cambios y los deja comparar
-git push - Mezcla en la nube 
 PR Pull Request - Comparar antes de subir
 
