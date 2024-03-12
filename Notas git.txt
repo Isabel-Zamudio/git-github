@@ -1,5 +1,5 @@
-                    
-        working area || Stangin area|| repository area 
+
+       working area || Stangin area|| repository area 
                 git add     ->    git commit
                git restore   <-   git reset HEAD
 
@@ -19,3 +19,5 @@ Mueve cambios de Stangin area a working area
 // git restore --staged nombre del archivo 
 Borra cambios 
 // git restore "nombre del archivo"
+Subir el archibo a github
+// git remoto agregar origen git@github.com:Isabel-Zamudio/git-github.git
