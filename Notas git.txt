@@ -20,4 +20,17 @@ Mueve cambios de Stangin area a working area
 Borra cambios 
 // git restore "nombre del archivo"
 Subir el archibo a github
-// git remoto agregar origen git@github.com:Isabel-Zamudio/git-github.git
+// git remote add "origen" git@github.com:Isabel-Zamudio/git-github.git
+Revisar si esta conectado a git 
+// git remote -v 
+
+                 Local || Remoto nube
+                    git push ->
+                    <- git pull 
+                    <- git fech
+
+git pull - Mezcla cabios
+git fech - No mezcla los cambios y los deja comparar
+git push - Mezcla en la nube 
+PR Pull Request - Comparar antes de subir
+
