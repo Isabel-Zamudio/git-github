@@ -1,6 +1,6 @@
 
        working area || Stangin area|| repository area 
-                git add     ->    git commit
+                git add      ->    git commit
                git restore   <-   git reset HEAD
 
 Para cambiar de master a main toca 
@@ -27,10 +27,13 @@ Revisar si esta conectado a git
                  Local || Remoto nube
                     git push ->
                     <- git pull 
-                    <- git fech
+                    <- git fetch
 
 git push - Mezcla en la nube 
 git pull - Mezcla cabios
-git fech - No mezcla los cambios y los deja comparar
+git fetch - No mezcla los cambios y los deja comparar
 PR Pull Request - Comparar antes de subir
+
+Guardar en GitHub - origin es el nombre del archivo - Main es la rama en la que esta, puede estar en master
+// $ git push origin main
 
